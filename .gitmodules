@@ -1,3 +1,15 @@
 [submodule "docs/scn"]
 	path = docs/scn
 	url = https://github.com/ostis-ai/scn-latex-plugin
+[submodule "sc-machine"]
+	path = sc-machine
+	url = git@github.com:ostis-ai/sc-machine.git
+	branch = main
+[submodule "scp-machine"]
+	path = scp-machine
+	url = git@github.com:ostis-ai/scp-machine.git
+	branch = main
+[submodule "sc-component-manager"]
+	path = sc-component-manager
+	url = git@github.com:ostis-ai/sc-component-manager.git
+	branch = main
